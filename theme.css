@@ -8,6 +8,7 @@ body {
 	--toggle-radius: 0px;
 	--toggle-thumb-radius: 0px;
 	--slider-thumb-radius: 0px;
+	--font-text-theme: Georgia, serif;
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
